@@ -1,1 +1,1 @@
-# WordFress-Config
+# WordPress-Config
